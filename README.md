@@ -1,5 +1,7 @@
-## Hi there 👋, my name is Youssef
-### Passionate Computer Science student!
+<h1 align="center">
+  Hi there 👋 I'm Youssef Waleed aka Welly<br />I'm a Software Engineer.
+</h1>
+
 Enthusiastic, a highly motivated Computer Science student at the Faculty of Computers and Artificial Intelligence with proven leadership capabilities, who likes to take initiative and seek out new challenges, and passionate about Software Engineering.
 
 - 🌱 I’m currently learning to optimize my code to the maximum 

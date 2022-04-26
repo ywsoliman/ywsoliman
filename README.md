@@ -35,6 +35,8 @@ Enthusiastic, a highly motivated Computer Science student at the Faculty of Comp
 <a href="https://instagram.com/ywsoliman" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ywsoliman&show_icons=true)  

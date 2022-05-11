@@ -43,4 +43,4 @@ Enthusiastic, a highly motivated Junior Computer Science student at the Faculty 
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ywsoliman&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ywsoliman&show_icons=true&theme=tokyonight)  

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Youssef Waleed aka Welly<br />I'm a Software Engineer.
+  Hi there 👋 I'm Youssef Waleed aka Welly
 </h1>
 
 Enthusiastic, a highly motivated Junior Computer Science student at the Faculty of Computers and Artificial Intelligence with proven leadership capabilities, who likes to take initiative and seek out new challenges, and passionate about Software Engineering.

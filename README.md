@@ -32,6 +32,9 @@ Enthusiastic, a highly motivated Senior Computer Science student at the Faculty 
 <a href="https://codeforces.com/profile/ywsoliman" target="_blank">
   <img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" />
 </a>
+<a href="https://codeforces.com/profile/ywsoliman" target="_blank">
+  <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/ywsoliman" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
